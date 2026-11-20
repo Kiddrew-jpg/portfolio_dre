@@ -1,5 +1,14 @@
 # Astro Starter Kit: Basics
 
+## Avvio su Windows
+
+Per installare dipendenze, Node.js e VS Code (quando necessario), e creare un collegamento sul Desktop:
+
+1. Fai doppio clic su `Setup-Portfolio.bat`.
+2. Usa il collegamento **Portfolio DRE** sul Desktop per aprire VS Code e avviare il sito.
+
+Il sito locale viene mostrato all'indirizzo `http://127.0.0.1:4321`.
+
 ```sh
 npm create astro@latest -- --template basics
 ```
